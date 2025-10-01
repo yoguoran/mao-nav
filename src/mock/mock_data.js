@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://m.sojson.com/zz/portscan.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1759306844259",
+          "name": "跑流量",
+          "url": "https://net.netart.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
