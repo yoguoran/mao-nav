@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://net.netart.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1759544755218",
+          "name": "流量杀手",
+          "url": "https://net.arsn.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
