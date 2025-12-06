@@ -145,7 +145,7 @@ export const mockData = {
           "name": "爱韩剧",
           "url": "https://hztv.app/",
           "description": "",
-          "icon": "https://www.hanjuwan.com/statics/icon/icon_2.png"
+          "icon": "https://tv.kan.cc/statics/logo/favicon.ico"
         },
         {
           "id": "site-1765026442008",
