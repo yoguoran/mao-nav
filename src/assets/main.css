@@ -30,7 +30,9 @@ body {
   overflow-x: hidden;
   background: transparent;
 }
-
+.sidebar{
+  display:none;
+}
 /* 磨砂玻璃效果基础样式 - 增强版 */
 .glass-effect {
   background: rgba(255, 255, 255, 0.7);
