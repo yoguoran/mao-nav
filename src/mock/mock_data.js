@@ -117,7 +117,7 @@ export const mockData = {
           "name": "cloudflare",
           "url": "https://dash.cloudflare.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1758605124638",
