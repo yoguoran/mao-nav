@@ -205,6 +205,28 @@ export const mockData = {
           "icon": "https://free.picui.cn/free/2025/09/23/68d22f147985e.png"
         }
       ]
+    },
+    {
+      "id": "category-1765024954855",
+      "icon": "💻",
+      "name": "浏览器插件",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1765025083803",
+          "name": "chrome插件",
+          "url": "https://www.cnplugins.com/",
+          "description": "",
+          "icon": "https://www.cnplugins.com/favicon.ico"
+        },
+        {
+          "id": "site-1765025247319",
+          "name": "画夹插件",
+          "url": "https://huajiakeji.com/",
+          "description": "",
+          "icon": "\thttps://huajiakeji.com/favicon.ico"
+        }
+      ]
     }
   ],
   "title": "简单导航"
