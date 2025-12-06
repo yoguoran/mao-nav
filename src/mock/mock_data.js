@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://net.arsn.cn/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1765031491093",
+          "name": "超好用的密码管理",
+          "url": "https://bitwarden.com/",
+          "description": "",
+          "icon": "https://bitwarden.com/favicon.ico"
         }
       ]
     },
