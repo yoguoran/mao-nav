@@ -134,11 +134,25 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
+          "id": "site-1765026210002",
+          "name": "看韩剧",
+          "url": "https://tv.kan.cc/",
+          "description": "",
+          "icon": "https://tv.kan.cc/statics/logo/favicon.ico"
+        },
+        {
+          "id": "site-1765026332897",
+          "name": "爱韩剧",
+          "url": "https://hztv.app/",
+          "description": "",
+          "icon": "https://www.hanjuwan.com/statics/icon/icon_2.png"
+        },
+        {
+          "id": "site-1765026442008",
+          "name": "嘟嘟韩剧",
+          "url": "https://www.duduhanju.net/",
+          "description": "",
+          "icon": "https://www.duduhanju.net/wp-content/uploads/2021/11/uugai.com_1636880973153.png"
         }
       ]
     },
@@ -225,6 +239,35 @@ export const mockData = {
           "url": "https://huajiakeji.com/",
           "description": "",
           "icon": "\thttps://huajiakeji.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1765025657598",
+      "icon": "👥",
+      "name": "美食",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1765025749408",
+          "name": "豆果美食",
+          "url": "https://www.douguo.com/",
+          "description": "",
+          "icon": "https://111-23-6-241-ad5ee04b.bvmlt.top:8043/cp1.douguo.com/static/nweb/images/favicon.ico?v=1912&kstype=L&kssessionid=b6479e7b379b7e14679358b5f7ca47e7&ksnode=zzun019&ksmark=LXxMU3wtfC18LXwtfC18LXwtfC18S0Z8LXwt&kslunar=cscm71"
+        },
+        {
+          "id": "site-1765025895138",
+          "name": "下厨房",
+          "url": "https://www.xiachufang.com/",
+          "description": "",
+          "icon": "https://s.chuimg.com/favicon.ico"
+        },
+        {
+          "id": "site-1765025962377",
+          "name": "美食天下",
+          "url": "https://www.meishichina.com/",
+          "description": "",
+          "icon": "https://static.meishichina.com/v6/img/wap_a/gotop.png"
         }
       ]
     }
