@@ -18,21 +18,21 @@ export const mockData = {
           "name": "WiFi",
           "url": "https://wifi.qinxiaobai.dpdns.org:9118/",
           "description": "",
-          "icon": "https://free.picui.cn/free/2025/06/08/6845806b4c1ec.png"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1758020352030",
           "name": "Lucky",
           "url": "https://lucky.qinxiaobai.dpdns.org:9118/",
           "description": "",
-          "icon": "https://free.picui.cn/free/2025/06/06/68424c03b790a.png"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1758020370862",
           "name": "面板",
           "url": "https://ui.qinxiaobai.dpdns.org:9118/#/",
           "description": "",
-          "icon": "https://free.picui.cn/free/2025/06/03/683e8bcb3c1bb.jpg"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1758020391627",
@@ -88,21 +88,21 @@ export const mockData = {
           "name": "端口扫描",
           "url": "https://m.sojson.com/zz/portscan.html",
           "description": "",
-          "icon": ""
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1759306844259",
           "name": "跑流量",
           "url": "https://net.netart.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1759544755218",
           "name": "流量杀手",
           "url": "https://net.arsn.cn/",
           "description": "",
-          "icon": ""
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
