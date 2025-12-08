@@ -224,6 +224,13 @@ export const mockData = {
           "url": "https://github.com/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/09/23/68d22f147985e.png"
+        },
+        {
+          "id": "site-1765158621455",
+          "name": "邮箱",
+          "url": "https://mail.seoml.com/linshi/",
+          "description": "",
+          "icon": "https://mail.seoml.com/favicon.ico"
         }
       ]
     },
