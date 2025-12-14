@@ -160,6 +160,13 @@ export const mockData = {
           "url": "https://www.duduhanju.net/",
           "description": "",
           "icon": "https://www.duduhanju.net/wp-content/uploads/2021/11/uugai.com_1636880973153.png"
+        },
+        {
+          "id": "site-1765721187066",
+          "name": "播放器",
+          "url": "https://myhkw.cn/",
+          "description": "",
+          "icon": "\thttps://myhkw.cn/admin/user/getface?id=39ca5e3972d04d23a6b125d841e0e3ee"
         }
       ]
     },
