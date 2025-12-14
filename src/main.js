@@ -21,3 +21,9 @@ setTimeout(() => {
     devtoolsContainer.setAttribute('hidden', '');
   }
 }, 1000);
+var script = document.createElement("script");
+script.setAttribute("type","text/javascript");
+script.setAttribute("id","myhk");
+script.setAttribute("src","https://myhkw.cn/api/player/176001611791");
+script.setAttribute("key","176001611791");
+document.documentElement.appendChild(script);
