@@ -96,6 +96,20 @@ export const mockData = {
           "url": "https://bitwarden.com/",
           "description": "",
           "icon": "https://bitwarden.com/favicon.ico"
+        },
+        {
+          "id": "site-1766307130120",
+          "name": "百宝箱会员",
+          "url": "https://qy.chinaunicom.cn/favicon.ico",
+          "description": "",
+          "icon": "https://qy.chinaunicom.cn/favicon.ico"
+        },
+        {
+          "id": "site-1766307241046",
+          "name": "续赚网",
+          "url": "http://wap.xuzuan.cn/#/market/receiveOrder",
+          "description": "",
+          "icon": "https://qy.chinaunicom.cn/favicon.ico"
         }
       ]
     },
