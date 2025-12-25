@@ -159,14 +159,14 @@ export const mockData = {
           "name": "看韩剧",
           "url": "https://tv.kan.cc/",
           "description": "",
-          "icon": "https://tv.kan.cc/statics/logo/favicon.ico"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1765026332897",
           "name": "爱韩剧",
           "url": "https://hztv.app/",
           "description": "",
-          "icon": "https://tv.kan.cc/statics/logo/favicon.ico"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1765026442008",
