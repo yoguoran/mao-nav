@@ -284,13 +284,6 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
-          "id": "site-1765025749408",
-          "name": "豆果美食",
-          "url": "https://www.douguo.com/",
-          "description": "",
-          "icon": "https://111-23-6-241-ad5ee04b.bvmlt.top:8043/cp1.douguo.com/static/nweb/images/favicon.ico?v=1912&kstype=L&kssessionid=b6479e7b379b7e14679358b5f7ca47e7&ksnode=zzun019&ksmark=LXxMU3wtfC18LXwtfC18LXwtfC18S0Z8LXwt&kslunar=cscm71"
-        },
-        {
           "id": "site-1765025895138",
           "name": "下厨房",
           "url": "https://www.xiachufang.com/",
