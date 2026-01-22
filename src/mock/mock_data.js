@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://myhkw.cn/",
           "description": "",
           "icon": "\thttps://myhkw.cn/admin/user/getface?id=39ca5e3972d04d23a6b125d841e0e3ee"
+        },
+        {
+          "id": "site-1769086491405",
+          "name": "皓月",
+          "url": "https://myhkw.cn/",
+          "description": "",
+          "icon": "https://myhkw.cn/open/web/fav?url=wgbqr.com"
         }
       ]
     },
