@@ -110,6 +110,13 @@ export const mockData = {
           "url": "http://wap.xuzuan.cn/#/market/receiveOrder",
           "description": "",
           "icon": "https://qy.chinaunicom.cn/favicon.ico"
+        },
+        {
+          "id": "site-1770910879685",
+          "name": "极简传",
+          "url": "https://jisuchuan.com/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
