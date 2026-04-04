@@ -129,7 +129,7 @@ export const mockData = {
         {
           "id": "site-1758020259815",
           "name": "音乐宝",
-          "url": "https://www.gequbao.com/",
+          "url": "https://www.gequhai.com/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/09/16/68c9411895033.png"
         },
