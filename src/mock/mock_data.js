@@ -266,6 +266,13 @@ export const mockData = {
           "url": "https://mail.seoml.com/linshi/",
           "description": "",
           "icon": "https://mail.seoml.com/favicon.ico"
+        },
+        {
+          "id": "site-1776005154164",
+          "name": "docker",
+          "url": "https://krau.top/posts/install-docker-one-key",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
