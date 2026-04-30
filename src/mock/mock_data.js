@@ -145,7 +145,7 @@ export const mockData = {
           "name": "观影",
           "url": "https://www.gying.si/",
           "description": "观影",
-          "icon": "https://www.gying.si/favicon.png"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "bilibili",
