@@ -180,7 +180,7 @@ export const mockData = {
           "name": "嘟嘟韩剧",
           "url": "https://www.duduhanju.net/",
           "description": "",
-          "icon": "https://www.duduhanju.net/wp-content/uploads/2021/11/uugai.com_1636880973153.png"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1765721187066",
