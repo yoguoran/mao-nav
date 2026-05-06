@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1777970762565",
+          "name": "股票监控",
+          "url": "http://dianqi.yoguoran.workers.dev",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
           "id": "site-1758020297736",
           "name": "青龙面板",
           "url": "https://ql.qinxiaobai.dpdns.org/",
