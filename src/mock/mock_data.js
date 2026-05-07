@@ -9,7 +9,7 @@ export const mockData = {
         {
           "id": "site-1777970762565",
           "name": "股票监控",
-          "url": "http://dianqi.yoguoran.workers.dev",
+          "url": "http://dq.qinxiaobai.dpdns.org",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
