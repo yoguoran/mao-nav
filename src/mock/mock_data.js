@@ -206,10 +206,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1778857776468",
+      "icon": "💻",
+      "name": "盒子",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1778857810801",
+          "name": "容器管理",
+          "url": "http://192.168.5.2:8807/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1778857825320",
+          "name": "casaos",
+          "url": "http://192.168.5.2:2882/#/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1778857847731",
+          "name": "home",
+          "url": "http://192.168.5.2:8123",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        }
+      ]
+    },
+    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "github",
