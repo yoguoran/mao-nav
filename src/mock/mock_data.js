@@ -309,6 +309,13 @@ export const mockData = {
           "url": "https://krau.top/posts/install-docker-one-key",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1780329707609",
+          "name": "v2",
+          "url": "https://github.com/2dust/v2flyNG",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
