@@ -130,7 +130,7 @@ export const mockData = {
           "name": "流量监控",
           "url": "https://flow.mxzu.net/",
           "description": "",
-          "icon": "https://flow.mxzu.net/icon-180.png"
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
           "id": "site-1780490159922",
