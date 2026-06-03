@@ -124,6 +124,13 @@ export const mockData = {
           "url": "https://jisuchuan.com/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1780489973950",
+          "name": "流量监控",
+          "url": "https://flow.mxzu.net/",
+          "description": "https://docs.qq.com/doc/DUElJVHRGWlljb3NE#",
+          "icon": "https://flow.mxzu.net/icon-180.png"
         }
       ]
     },
