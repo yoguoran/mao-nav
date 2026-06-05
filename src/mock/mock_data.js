@@ -138,6 +138,13 @@ export const mockData = {
           "url": "https://docs.qq.com/doc/DUElJVHRGWlljb3NE#",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1780654765258",
+          "name": "IP地址",
+          "url": "https://www.ip22.de/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
