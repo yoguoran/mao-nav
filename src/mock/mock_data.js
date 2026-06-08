@@ -147,9 +147,9 @@ export const mockData = {
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         },
         {
-          "id": "site-1780936981481",
-          "name": "阿里签到",
-          "url": "http://aliyunpan-signin-cron.yoguoran-a15.workers.dev/",
+          "id": "site-1780938964275",
+          "name": "签到阿里",
+          "url": "https://aliyunpan.yoguoran.dpdns.org/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
