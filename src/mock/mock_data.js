@@ -145,6 +145,13 @@ export const mockData = {
           "url": "https://www.ip22.de/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1780936981481",
+          "name": "阿里签到",
+          "url": "http://aliyunpan-signin-cron.yoguoran-a15.workers.dev/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
