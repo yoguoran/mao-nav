@@ -368,28 +368,6 @@ export const mockData = {
           "icon": "\thttps://huajiakeji.com/favicon.ico"
         }
       ]
-    },
-    {
-      "id": "category-1765025657598",
-      "icon": "👥",
-      "name": "美食",
-      "order": 5,
-      "sites": [
-        {
-          "id": "site-1765025895138",
-          "name": "下厨房",
-          "url": "https://www.xiachufang.com/",
-          "description": "",
-          "icon": "https://s.chuimg.com/favicon.ico"
-        },
-        {
-          "id": "site-1765025962377",
-          "name": "美食天下",
-          "url": "https://www.meishichina.com/",
-          "description": "",
-          "icon": "https://static.meishichina.com/v6/img/wap_a/gotop.png"
-        }
-      ]
     }
   ],
   "title": "简单导航"
