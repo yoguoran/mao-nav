@@ -152,6 +152,13 @@ export const mockData = {
           "url": "https://aliyunpan.yoguoran.dpdns.org/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1782010658245",
+          "name": "节日提醒",
+          "url": "https://jr.yoguoran.dpdns.org/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
