@@ -166,6 +166,13 @@ export const mockData = {
           "url": "https://guoranjd.yoguoran.dpdns.org/admin",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1784559336460",
+          "name": "监控CF额度",
+          "url": "https://jk.yoguoran.dpdns.org/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
