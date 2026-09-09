@@ -180,6 +180,13 @@ export const mockData = {
           "url": "https://ip125.com/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1788949216086",
+          "name": "rf域名",
+          "url": "https://dashboard.katabump.com/domains/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
