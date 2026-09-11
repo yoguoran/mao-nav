@@ -187,6 +187,13 @@ export const mockData = {
           "url": "https://dashboard.katabump.com/domains/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1789097313914",
+          "name": "订阅管理",
+          "url": "https://ht.guoran.kdns.fr/#/admin/login",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
