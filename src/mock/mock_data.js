@@ -386,6 +386,20 @@ export const mockData = {
           "url": "https://github.com/2dust/v2flyNG",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1789385092506",
+          "name": "delcf",
+          "url": "https://delcf.qinxiaobai.kdns.fr",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1789385113572",
+          "name": "pas",
+          "url": "https://guoranpas.qinxiaobai.kdns.fr/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
       ]
     },
