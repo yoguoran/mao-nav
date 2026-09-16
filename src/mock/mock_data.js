@@ -318,13 +318,6 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
-        },
-        {
           "id": "webstorm",
           "name": "WebStorm",
           "url": "https://www.jetbrains.com/webstorm/",
@@ -344,13 +337,6 @@ export const mockData = {
           "url": "https://developer.android.com/studio",
           "description": "Android官方开发工具",
           "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
         },
         {
           "id": "site-1758604907596",
@@ -398,6 +384,13 @@ export const mockData = {
           "id": "site-1789385113572",
           "name": "pas",
           "url": "https://guoranpas.qinxiaobai.kdns.fr/",
+          "description": "",
+          "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
+        },
+        {
+          "id": "site-1789522224974",
+          "name": "查询cf",
+          "url": "https://cx.qinxiaobai.kdns.fr/",
           "description": "",
           "icon": "https://free.picui.cn/free/2025/08/14/689db70f59a3c.png"
         }
